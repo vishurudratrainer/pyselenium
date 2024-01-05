@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['gs1.py', 'gs2.py', 'action.py', 'download.py', 'selectorseg.py', 'password.html']
+recent_files = ['gs1.py', 'gs2.py', 'action.py', 'download.py', 'selectorseg.py', 'password.html', 'gs3.py', 'gs4pending.py', 'link.html', 'checkbox.html', 'radio.html', 'gs5.py', 'gs6.py', 'form.py', 'form1.py', 'alert.html', 'alerteg1.py', 'confirm.html', 'confirm.py', 'prompt.html', 'prompt.py', 'windows.py']
 
